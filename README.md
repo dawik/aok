@@ -1,7 +1,7 @@
 AOK
 =========
 
-A fork of the client-server real-time strategy game [Age of KTH](http://tapir.haninge.kth.se/~tobbe/ageofkth/)
+A fork of the 2011 client-server real-time strategy game [Age of KTH](http://tapir.haninge.kth.se/~tobbe/ageofkth/).
 
 >Age of KTH is a real-time strategy (RTS) game developed by first year students at the Royal Institute of Technology (KTH). It's inspired by classical RTS games and aims to provide extensive configuration and modification capabilities to players both with and without prior programming knowledge. The game is open source and free to be used by anyone without restrictions as long as credits are given.
 
