@@ -24,11 +24,13 @@ Libraries:
 * SDLImage 
 * SDL_sound 
 * SDL_Net
+* GLU
+* GLUT
 
 Todo
 --------------
-* Unify buildscripts
-* Make server webscale
+* Better unified buildscript
+* Make server *webscale*
   
 
 License
