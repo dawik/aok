@@ -13,21 +13,23 @@ Emil Lundskog
 Christoffer Samuelsson
 David Wikmans
 
-Requirements (linux)
+Requirements
 --------------
-GCC.
+* GCC
+* Autotools.
 
 Libraries:
 
-SDL 1.2, SDLImage, SDL_sound, SDL_Net
+* SDL 1.2
+* SDLImage 
+* SDL_sound 
+* SDL_Net
 
-Installation (linux)
+Todo
 --------------
-
-```
-make
-```
-
+* Unify buildscripts
+* Make server webscale
+  
 
 License
 -
